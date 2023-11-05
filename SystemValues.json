@@ -1,0 +1,10 @@
+{
+    "build":"H-06-20231104",
+    "system":"Ubuntu 20.04.6 on WSL",
+    "mod_host_port":8888,
+    "mod_release":{
+        "CN":"https://gh-proxy.com/https://github.com/PieTech-WS/DevelaIDE/releases/download/ModCreates/",
+        "global":"https://github.com/PieTech-WS/DevelaIDE/releases/download/ModCreates/"
+    },
+    "region":"CN"
+}

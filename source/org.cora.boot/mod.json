@@ -1,0 +1,10 @@
+{
+    "$schema": "https://www.projcora.club/caplit-schemas/modframework_velaide/mod.json.schema",
+    "name": "boot",
+    "package": "org.cora.boot",
+    "version": "0.0.2",
+    "enable_scripts": "True",
+    "scripts": {
+        "boot": "/bin/python3.12 {mod_path}/org.cora.boot.py"
+    }
+}

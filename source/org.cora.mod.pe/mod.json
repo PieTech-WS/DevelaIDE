@@ -1,0 +1,10 @@
+{
+    "$schema": "https://www.projcora.club/caplit-schemas/modframework_velaide/mod.json.schema",
+    "name": "Mod PE",
+    "package": "org.cora.mod.pe",
+    "version": "0.1.0",
+    "utils": {
+        "modpe": "{mod_path}/main.py",
+        "mod_clean": "{mod_path}/clean.py"
+    }
+}

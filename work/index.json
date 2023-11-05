@@ -1,0 +1,23 @@
+{
+    "org.cora.boot":{
+        "0.0.2":{
+            "filename": "org.cora.boot.tar",
+            "hash": "a834b886070e1c7dcc0de258b1467586",
+            "author": "2minRain@CoraTech"
+        }
+    },
+    "org.vela.help":{
+        "0.1.0":{
+            "filename": "org.cora.vela.help.tar",
+            "hash": "267d051e9de96f242c3801586798e474",
+            "author": "2minRain@CoraTech"
+        }
+    },
+    "org.cora.mod.pe":{
+        "0.1.0":{
+            "filename": "org.cora.mod.pe",
+            "hash": "b1fd8ae1d4bbce5ebbc5e514a3269594",
+            "author": "2minRain@CoraTech"
+        }
+    }
+}

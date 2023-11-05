@@ -1,0 +1,10 @@
+{
+    "$schema": "https://www.projcora.club/caplit-schemas/modframework_velaide/mod.json.schema",
+    "name": "Help",
+    "package": "org.cora.vela.help",
+    "version": "2.0.0",
+    "enable_scripts":"False",
+    "utils": {
+        "vhelp": "{mod_path}/help.py"
+    }
+}
