@@ -6,4 +6,9 @@
        title="ModFramework" id="ModFramework">
 
     <title>概览</title>
+    <chapter title="介绍" id="introduction">
+        <p>
+            ModFramework是基于Python的系统全局工具框架.
+        </p>
+    </chapter>
 </topic>
