@@ -22,3 +22,8 @@
  - Node.JS 20.5.1
  - zsh
  - ModFramework
+
+## 支持我们
+注意: 此项目捐赠款项将用于构建好的DevelaOS的存储成本, 并鼓励我们继续开发其中的开源组件(如ModFramework)
+
+您可以在[爱发电](https://afdian.net/a/2minrain)上捐赠来支持我们, 在这之前, 请阅读我们的[捐赠者协议](./donors-agreement.md)
