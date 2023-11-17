@@ -8,4 +8,5 @@
 
     <toc-element topic="ModFramework.topic" toc-title="ModFramework"/>
     <toc-element topic="Summary.topic"/>
+    <toc-element topic="d-a.md"/>
 </instance-profile>
