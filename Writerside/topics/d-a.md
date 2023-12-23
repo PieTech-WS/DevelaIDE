@@ -44,5 +44,5 @@
 - 您可以优先获得DevelaOS的构建版本
 - 您会进入赞助名单, 位于GitHub仓库PieTech-WS/DevelaIDE
 
-## 附录解释权归[name]所有
+## 附录解释权归CTWS.APA.所有
 
