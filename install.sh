@@ -1,3 +1,4 @@
+sed -i'.bak' 's,/[a-z]*.ubuntu.com,/mirrors.tuna.tsinghua.edu.cn,' /etc/apt/sources.list
 dpkg --add-architecture i386 
 apt-get -y update
 apt-get -y install autoconf automake bison build-essential dfu-util genromfs flex git gperf
