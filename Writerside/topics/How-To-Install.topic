@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="安装" id="How-To-Install">
+
+    <note>
+        您需要进入QQ群组以获取DevelaOS的已构建版本.
+    </note>
+    <chapter title="下载" id="downloading">
+        请使用您获取到的链接下载DevelaOS.请注意, 这可能会花费很长时间(文件大小约8GB).
+    </chapter>
+    <chapter title="导入至WSL(安装)" id="import-to-wsl">
+        <p>
+            打开下载的文件所在的文件夹, 右键点击 <control>"在终端中打开"</control> 以在此文件夹处打开Powershell.
+        </p>
+        <p>
+            输入以下命令:
+        </p>
+        <code-block lang="shell">
+            wsl --import DevelaOS [InstallLocation] DevelaOS
+        </code-block>
+        <note>
+            请将[InstallLocation]字段改为你想要把DevelaOS安装至何处.
+        </note>
+        <p>
+            如果你想要将其设置为默认发行版, 请使用如下命令
+        </p>
+        <code-block lang="shell">
+            wsl --set-default DevelaOS
+        </code-block>
+        <p>
+            如果您没有设置为默认发行版, 请使用以下命令启动DevelaOS
+        </p>
+        <code-block lang="shell">
+            wsl -d DevelaOS
+        </code-block>
+        <p>
+            稍作等待, 进入DevelaOS后, 您就可以使用aiot-ide命令启动AIoT-IDE开始Vela快应用的开发了!
+        </p>
+    </chapter>
+</topic>

@@ -6,6 +6,7 @@
                  name="DevelaOS帮助文档"
                  start-page="Summary.topic">
 
+    <toc-element topic="How-To-Install.topic"/>
     <toc-element topic="ModFramework.topic" toc-title="ModFramework"/>
     <toc-element topic="Summary.topic"/>
 </instance-profile>
